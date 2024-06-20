@@ -1,0 +1,196 @@
+@charset "utf-8";
+
+.hg {
+	line-height: 2;
+}
+
+
+a:link {
+	color: #038EC7;
+	text-decoration: none;
+}
+a:visited {
+	color: #038EC7;
+	text-decoration: none;
+}
+a:hover {
+	color: #FF6600;
+	text-decoration: none;
+}
+
+
+.lm0 {
+	background-image: url(../images/lm1.jpg);
+	background-repeat: no-repeat;
+	text-align: left;
+	text-indent: 30px;
+	vertical-align: middle;
+	color: #038EC7;
+}
+
+.lm1 {
+	background-image: url(../images/lm1.jpg);
+	background-repeat: no-repeat;
+	text-align: left;
+	text-indent: 30px;
+	vertical-align: middle;
+	font-weight: bold;
+	color: #038EC7;
+}
+
+.lm2 {
+	background-image: url(../images/lm2.jpg);
+	text-align: left;
+	text-indent: 30px;
+	vertical-align: middle;
+	background-repeat: no-repeat;
+	color: #FFFFFF;
+	font-weight: bold;
+}
+
+.lm3 {
+	background-image: url(../../images/lm3.jpg);
+	text-align: left;
+	text-indent: 14px;
+	vertical-align: middle;
+	font-weight: bold;
+	color: #FFFFFF;
+}
+.bk {
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #C4EAFF;
+	border-right-color: #C4EAFF;
+	border-bottom-color: #C4EAFF;
+	border-left-color: #C4EAFF;
+}
+
+
+.bk1 {
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #C4EAFF;
+	border-right-color: #C4EAFF;
+	border-bottom-color: #C4EAFF;
+	border-left-color: #C4EAFF;
+	border-top-style: solid;
+}
+.wenzhang {
+	font-family: "宋体";
+	font-size: 14px;
+	line-height: 2em;
+	color: #333333;
+	text-align: left;
+	text-indent: 2em;
+}
+.wenzhang_zaiyao {
+	font-family: "宋体";
+	font-size: 16px;
+	line-height: 2em;
+	font-weight: bold;
+	color: #333333;
+	background-color: #EFEDED;
+	letter-spacing: 1em;
+	text-align: left;
+	text-indent: 2em;
+}
+
+.xhx {
+	border-bottom-width: 1px;
+	border-bottom-style: dotted;
+	border-bottom-color: #CCCCCC;
+}
+.b {
+	background-image: url(../images/b.jpg);
+	background-repeat: no-repeat;
+	text-align: center;
+	vertical-align: middle;
+	background-position: center center;
+	letter-spacing: 5px;
+}
+
+.k {
+	background-image: url(../images/k.jpg);
+	background-position: center center;
+	background-repeat: no-repeat;
+}
+.end {
+	font-weight: bold;
+	color: #FFFFFF;
+	background-image: url(../images/bg1.jpg);
+}
+.xw a:link {
+	font-size: 14px;
+	color: #333333;
+	text-decoration: none;
+}
+.xw a:visited {
+	font-size: 14px;
+	color: #333333;
+	text-decoration: none;
+}
+.zx a:link {
+	font-size: 14px;
+	color: #333333;
+	text-decoration: none;
+}
+.zx a:visited {
+	font-size: 14px;
+	color: #333333;
+	text-decoration: none;
+}
+.zx a:hover {
+	font-size: 14px;
+	font-weight: bold;
+	color: #000066;
+	text-decoration: none;
+}
+
+.xw a:hover {
+	font-size: 14px;
+	font-style: italic;
+	color: #FF0000;
+	text-decoration: none;
+}
+
+.bg2 {
+	background-image: url(../../images/bg2.jpg);
+	background-position: right bottom;
+	background-repeat: repeat;
+}
+.waveshow {
+	filter: Wave(Add=1, Freq=1, LightStrength=2, Phase=2, Strength=3);
+}
+.tx_lvjing {
+	filter: Alpha(Opacity=0, FinishOpacity=85, Style=1);
+}
+.table_dec {
+	font-family: "宋体";
+	font-size: 14px;
+	line-height: 28px;
+	color: #000000;
+	border-collapse: collapse;
+}
+.table_dec td {
+	border: 1px solid #333333;
+}
+.caption_bg {
+	font-size: 18px;
+	color: #015274;
+	background-color: #DDDCDB;
+	font-weight: bold;
+}
+.bk marquee {
+	color: #F00;
+}
